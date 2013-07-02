@@ -9,7 +9,7 @@ import org.scribe.oauth.*;
 
 public class TwitterExample
 {
-  private static final String PROTECTED_RESOURCE_URL = "https://api.twitter.com/1/statuses/update.json";
+  private static final String PROTECTED_RESOURCE_URL = "https://api.twitter.com/1.1/statuses/update.json";
   
   public static void main(String[] args)
   {
